@@ -1,16 +1,54 @@
-## Hi there 👋
+# Александр Морозов
 
-<!--
-**malexandro174-tech/malexandro174-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Developer | AI Assistants | Telegram Bots | RAG Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+
+Разрабатываю AI-ассистентов, Telegram-ботов и системы автоматизации на базе современных языковых моделей.
+
+Работаю с Prompt Engineering, Python, n8n, Telegram Bot API, Google Sheets, RAG, Weaviate, DeepSeek и GigaChat.
+
+В настоящее время развиваю собственный проект AstroBot — персонального AI-консультанта с интеллектуальной базой знаний, автоматизацией обработки данных и генерацией персонализированных аналитических отчетов.
+
+---
+
+## Основные направления
+
+- AI-ассистенты и экспертные системы
+- Telegram-боты
+- AI Automation
+- Prompt Engineering
+- RAG-системы
+- Базы знаний
+- API-интеграции
+- n8n Automation
+- Python
+
+---
+
+## Текущие проекты
+
+### AstroBot
+Персональный AI-консультант с использованием DeepSeek, Telegram и автоматизированного анализа данных.
+
+### RAG DeepSeek Assistant
+Система поиска знаний на базе RAG, векторного поиска и LLM.
+
+### Telegram Bots
+Автоматизация сбора данных, клиентских сценариев и консультирования пользователей.
+
+---
+
+## Технологии
+
+Python • n8n • DeepSeek • GigaChat • Weaviate • Git • Telegram • Google Sheets • Prompt Engineering • API Integration
+
+---
+
+## Контакты
+
+Telegram: @Tsiosfet
+
+Email: malexandro82@mail.ru
