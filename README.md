@@ -37,6 +37,20 @@
 
 [Репозиторий](https://github.com/malexandro174-tech/ai-automation-portfolio-consultant) · [Релиз v1.0.0](https://github.com/malexandro174-tech/ai-automation-portfolio-consultant/releases/tag/v1.0.0) · [Методика проверки](https://github.com/malexandro174-tech/ai-automation-portfolio-consultant/blob/main/docs/testing.md) · [Результаты приёмки](https://github.com/malexandro174-tech/ai-automation-portfolio-consultant/blob/main/docs/evidence/production-acceptance.json) · [Локальные тесты](https://github.com/malexandro174-tech/ai-automation-portfolio-consultant/blob/main/docs/evidence/local-regression.json)
 
+## Mag_OS — цифровая управленческая команда
+
+**Director Dashboard · Public showcase v1.0.0**
+
+Настраиваемые AI-директора помогают руководителю ставить задачи, видеть состояние процессов, планировать неделю и принимать решения по доступным фактам. Engineering, Infrastructure и Media — пример конфигурации команды, которую можно адаптировать под бизнес.
+
+В публичной витрине доступны CEO Home, четыре палитры, диалог, показатели, недельная планёрка и месячная Media Analytics. **Все данные условные; реальные действия отключены.** Закрытый backend Mag_OS не опубликован. Часть источников рабочего контура остаётся DEGRADED; универсальный RAG для всех директоров не заявляется.
+
+**Стек рабочего контура:** Python, Director Runtime, Operations Loop, Broker, n8n и API-интеграции. **Публичное демо:** HTML, CSS, JavaScript; 60 браузерных проверок PASS.
+
+<a href="https://malexandro174-tech.github.io/mag-os-director-dashboard/demo/"><img src="https://raw.githubusercontent.com/malexandro174-tech/mag-os-director-dashboard/main/docs/images/home-graphite.webp" alt="Mag_OS CEO Home — синтетические данные" width="720"></a>
+
+[Репозиторий и архитектура](https://github.com/malexandro174-tech/mag-os-director-dashboard) · [Интерактивное демо](https://malexandro174-tech.github.io/mag-os-director-dashboard/demo/) · [Релиз v1.0.0](https://github.com/malexandro174-tech/mag-os-director-dashboard/releases/tag/v1.0.0)
+
 ## Другие прикладные проекты
 
 ### AI Meeting Intelligence & Audit Assistant
